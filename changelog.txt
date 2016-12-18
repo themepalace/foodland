@@ -1,0 +1,48 @@
+== Changelog ==
+= 0.8 = 
+* GPL version conflict issue solved
+* Upgrade-to-pro button is changed
+* Migrate Custom CSS to default for 4.7
+* Added scroll options in theme options
+
+= 0.7 =
+* Archive title updated
+* Translation issue fixed in comment form
+* Function prefixing added.
+* Staff member section updated.
+
+= 0.6 = 
+* license link for fidvids, cycle2 and googlefont updated
+* minified file of editor-style.css added
+* 
+
+= 0.5 =
+* Added unminified source js and CSS files
+* GPL link of images used in screenshot added on readme.txt
+* custom CSS sanitization function modified
+* fitvids license link added
+
+= 0.4 = 
+* Improved sanitization and escaping
+* Removed social media link from customizer important links options.
+* Front page displays option modified.
+
+= 0.3 =
+* CSS tweaks
+* Improved sanitization and escaping
+* Reduced add image size options
+* Language (.pot) file modified
+
+= 0.2 = 
+* Implement Custom logo
+* Implement Jetpack Food Menu and Infinite scroll
+* Custom post widget added
+* Improved sanitization and escaping
+* Minor bug fixes
+* CSS tweaks
+
+= 0.1 =
+* Initial Release
+
+
+
